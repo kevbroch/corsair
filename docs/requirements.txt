@@ -4,3 +4,4 @@ m2r2
 sphinxcontrib-wavedrom
 pyyaml
 jinja2
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
