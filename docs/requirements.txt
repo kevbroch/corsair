@@ -4,3 +4,4 @@ m2r2
 sphinxcontrib-wavedrom
 pyyaml
 jinja2
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
